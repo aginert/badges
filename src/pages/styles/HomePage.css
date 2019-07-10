@@ -1,0 +1,22 @@
+.Container-home{
+    background: url('../../images/stars.svg'), #1B1B25;
+    background-repeat: repeat;
+    width: 100%;
+    min-height: calc(100vh - 60px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 7vh;  
+}
+.InfoConf{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
+.ImgAstro{
+    display: flex;
+    flex-direction: column;
+}
