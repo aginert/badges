@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "ebd481f01ce97d5ce14d",
+    "revision": "1a5cddb3ca545921d9e5",
     "url": "/badges/static/css/main.8da1fdd9.chunk.css"
   },
   {
-    "revision": "ebd481f01ce97d5ce14d",
-    "url": "/badges/static/js/main.ebd481f0.chunk.js"
+    "revision": "1a5cddb3ca545921d9e5",
+    "url": "/badges/static/js/main.1a5cddb3.chunk.js"
   },
   {
     "revision": "21a534598d04da462866",
     "url": "/badges/static/js/runtime~main.21a53459.js"
   },
   {
-    "revision": "789c05054bc21e24f7ad",
+    "revision": "184035bf3745301f6245",
     "url": "/badges/static/css/2.d807360f.chunk.css"
   },
   {
-    "revision": "789c05054bc21e24f7ad",
-    "url": "/badges/static/js/2.789c0505.chunk.js"
+    "revision": "184035bf3745301f6245",
+    "url": "/badges/static/js/2.184035bf.chunk.js"
   },
   {
     "revision": "f246f5f1fb702016606ee8c65e33c029",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/badges/static/media/stars.1d17360a.svg"
   },
   {
-    "revision": "ec755da774dca69a4511a9a42f6888e6",
+    "revision": "0b305f9c8a2942b3f3f3cb3e1c365a02",
     "url": "/badges/index.html"
   }
 ];
