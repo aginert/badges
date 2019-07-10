@@ -1,0 +1,21 @@
+{
+  "main.css": "/badges/static/css/main.8da1fdd9.chunk.css",
+  "main.js": "/badges/static/js/main.72c6c241.chunk.js",
+  "main.js.map": "/badges/static/js/main.72c6c241.chunk.js.map",
+  "runtime~main.js": "/badges/static/js/runtime~main.21a53459.js",
+  "runtime~main.js.map": "/badges/static/js/runtime~main.21a53459.js.map",
+  "static/css/2.d807360f.chunk.css": "/badges/static/css/2.d807360f.chunk.css",
+  "static/js/2.184035bf.chunk.js": "/badges/static/js/2.184035bf.chunk.js",
+  "static/js/2.184035bf.chunk.js.map": "/badges/static/js/2.184035bf.chunk.js.map",
+  "index.html": "/badges/index.html",
+  "precache-manifest.426844a5ee79fd876dd880de785ad15c.js": "/badges/precache-manifest.426844a5ee79fd876dd880de785ad15c.js",
+  "service-worker.js": "/badges/service-worker.js",
+  "static/css/2.d807360f.chunk.css.map": "/badges/static/css/2.d807360f.chunk.css.map",
+  "static/css/main.8da1fdd9.chunk.css.map": "/badges/static/css/main.8da1fdd9.chunk.css.map",
+  "static/media/astronauts.svg": "/badges/static/media/astronauts.71addf45.svg",
+  "static/media/badge-header.svg": "/badges/static/media/badge-header.973f5842.svg",
+  "static/media/error.png": "/badges/static/media/error.521fdb33.png",
+  "static/media/logo.svg": "/badges/static/media/logo.0026b862.svg",
+  "static/media/platziconf-logo.svg": "/badges/static/media/platziconf-logo.f246f5f1.svg",
+  "static/media/BadgeDetails.css": "/badges/static/media/stars.1d17360a.svg"
+}
